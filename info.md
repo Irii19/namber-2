@@ -1,1 +1,1 @@
-привет, GITHUB
+HELLO
